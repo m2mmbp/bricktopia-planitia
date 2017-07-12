@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@font-face {
+font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: normal;
@@ -16,7 +16,7 @@
        url('../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans') format('svg');
 }
 
-@font-face {
+font-face {
   font-family: 'Noto Sans';
   font-weight: 700;
   font-style: normal;
@@ -30,7 +30,7 @@
        url('../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans') format('svg');
 }
 
-@font-face {
+font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: italic;
@@ -44,7 +44,7 @@
        url('../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans') format('svg');
 }
 
-@font-face {
+font-face {
   font-family: 'Noto Sans';
   font-weight: 700;
   font-style: italic;
