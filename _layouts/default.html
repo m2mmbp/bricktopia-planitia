@@ -23,7 +23,7 @@
         </a>
         <h2>{{ site.title | default: site.github.repository_name }}</h2>
         {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a>
+          <a href="{{ site.github.repository_url }}" class="button"><small>View project on GitHub</small></a>
         {% endif %}
         {% if site.github.is_user_page %}
           <a href="{{ site.github.repository_url }}"><small>Follow me on</small> GitHub</a>
