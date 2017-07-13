@@ -19,6 +19,6 @@ a.button {
   font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
 }
 
-h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+#main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before, #main-content h5:before, #main-content h6:before {
   content: "";
 }
