@@ -3,16 +3,12 @@
 
 @import "{{ site.theme }}";
 
-header {
+header, body {
   font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
 }
 
 header h1 {
  font-size: 38px;
-}
-
-body {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
 }
 
 a.button {
@@ -21,5 +17,9 @@ a.button {
 
 #main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
   font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+  content: "";
 }
 
