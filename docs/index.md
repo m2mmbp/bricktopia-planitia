@@ -14,6 +14,7 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 ### Interior & Machinery ###
 
+#### Replicator ####
 
 ![Image of Replicator](https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/TNG_Replicator.jpg)
 
