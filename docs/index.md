@@ -14,7 +14,7 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 ### Interior & Machinery ###
 
-#### Replicator ####
+#### Antimatter Containment Pod ####
 
 ![Image of Antimatter Containment Pod](https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/TNG_Antimatter_Containment_Pod.jpg)
 
