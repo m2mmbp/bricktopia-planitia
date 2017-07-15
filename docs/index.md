@@ -6,7 +6,9 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 #### Shuttles ####
 
-![Image of Yaktocat](https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/Type-6%20Shuttle.jpg)
+##### Type-6 Shuttle #####
+
+![Image of Type-6 Shuttle](https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/Type-6%20Shuttle.jpg)
 
 ### Rooms ###
 
