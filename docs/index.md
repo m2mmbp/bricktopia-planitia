@@ -4,6 +4,10 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 ### Starships
 
+#### Shuttles ####
+
+![GitHub Logo](/Models/Type-6 Shuttle.jpg)
+
 ### Rooms ###
 
 ### Interior & Machinery ###
