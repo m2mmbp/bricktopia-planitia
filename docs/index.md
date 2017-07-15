@@ -6,7 +6,7 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 #### Shuttles ####
 
-![GitHub Logo](/Models/Type-6 Shuttle.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Rooms ###
 
