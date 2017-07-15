@@ -16,6 +16,10 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 #### Replicator ####
 
+![Image of Antimatter Containment Pod](https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/TNG_Antimatter_Containment_Pod.jpg)
+
+#### Replicator ####
+
 ![Image of Replicator](https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/TNG_Replicator.jpg)
 
 
