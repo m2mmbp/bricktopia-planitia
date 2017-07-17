@@ -8,6 +8,12 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 ##### Type-6 Shuttle #####
 
+Reference:
+
+![Reference Type-6 Shuttle](http://pre02.deviantart.net/cd49/th/pre/f/2015/040/1/3/type_6_shuttlecraft_ortho__new__by_unusualsuspex-d8h7rwi.jpg)
+
+Lego:
+
 ![Image of Type-6 Shuttle](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/Type-6%20Shuttle.jpg)
 
 ### Rooms ###
