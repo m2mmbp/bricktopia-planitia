@@ -17,8 +17,8 @@ Here you can find information about Brickfleet's newest developments in brickshi
 #### Antimatter Containment Pod ####
 
 Reference:
-(http://img05.deviantart.net/07c6/i/2014/139/9/e/antimatter_containment_pod_tech_readout_by_unusualsuspex-d7iuhmh.jpg)
 
+![Reference Antimatter Containment Pod](http://img05.deviantart.net/07c6/i/2014/139/9/e/antimatter_containment_pod_tech_readout_by_unusualsuspex-d7iuhmh.jpg)
 
 ![Image of Antimatter Containment Pod](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Antimatter_Containment_Pod.jpg)
 
