@@ -36,6 +36,12 @@ Lego:
 
 #### Replicator ####
 
+Reference:
+
+![Reference Replicator](https://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg)
+
+Lego:
+
 ![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.jpg)
 
 
