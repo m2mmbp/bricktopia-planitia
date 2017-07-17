@@ -40,6 +40,8 @@ Reference:
 
 ![Reference Replicator](https://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg)
 
+![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png)
+
 Lego:
 
 ![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.jpg)
