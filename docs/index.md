@@ -90,6 +90,9 @@ Lego:
 
 ![Ro](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Ro.lxf.png)
 
+#### Q ####
+
+![Q](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Q.lxf.png)
 
 ### Links ###
 
