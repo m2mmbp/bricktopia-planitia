@@ -54,13 +54,19 @@ Lego:
 
 #### Captain Jean-Luc Picard ####
 
+Picard with Kamin's flute.
+
 ![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.lxf.png)
 
 #### Commander William T. Riker ####
 
+Riker with his trombone - one of his prized possessions.
+
 ![Riker](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Riker.lxf.png)
 
 #### Lieutenant Commander Data ####
+
+Data and his feline Spot.
 
 ![Data](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Data.lxf.png)
 
