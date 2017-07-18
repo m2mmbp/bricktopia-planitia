@@ -52,6 +52,12 @@ Lego:
 
 ### Crew & Uniforms ###
 
+#### 
+
+![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.jpg
+
+![](https://vignette2.wikia.nocookie.net/moviemorgue/images/0/02/Picard.jpg)
+
 ### Links ###
 
 https://www.lego.com/en-us/architecture/explore/21012-sydney-opera-house
