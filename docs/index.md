@@ -76,19 +76,23 @@ Data and his feline Spot.
 
 #### Lieutenant Worf ####
 
+Worf holding his bat'leth.
+
 ![Worf](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worf.lxf.png)
 
 #### Dr. Beverly Crusher ####
 
-![Crusher](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Crusher.lxf.png)
+Dr. Crusher and a medical tricorder.
 
+![Crusher](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Crusher.lxf.png)
 
 #### Commander Deanna Troi ####
 
 ![Troi](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Troi.lxf.png)
 
-
 #### Ensign Wesley Crusher ####
+
+Wesley reading a PADD.
 
 ![Wesley](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Wesley.lxf.png)
 
