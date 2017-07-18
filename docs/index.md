@@ -54,7 +54,7 @@ Lego:
 
 #### Captain Jean-Luc Picard ####
 
-![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.jpg)
+![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.lxf.png)
 
 
 ### Links ###
