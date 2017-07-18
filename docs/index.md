@@ -56,6 +56,10 @@ Lego:
 
 ![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.lxf.png)
 
+#### Commander William T. Riker ####
+
+![Riker](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Riker.lxf.png)
+
 
 ### Links ###
 
