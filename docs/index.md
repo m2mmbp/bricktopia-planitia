@@ -44,7 +44,7 @@ Reference:
 
 Lego:
 
-![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.jpg)
+![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.lxf.png)
 
 
 
