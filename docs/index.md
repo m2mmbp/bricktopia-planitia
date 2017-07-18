@@ -80,11 +80,23 @@ Worf holding his bat'leth.
 
 ![Worf](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worf.lxf.png)
 
+#### Lieutenant Tasha Yar ####
+
+Tasha hand a phaser.
+
+![Yar](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Yar.lxf.png)
+
 #### Dr. Beverly Crusher ####
 
 Dr. Crusher and a medical tricorder.
 
 ![Crusher](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Crusher.lxf.png)
+
+#### Dr. Katherine Pulaski ####
+
+Dr. Pulaski and a medical device.
+
+![Pulaski](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Pulaski.lxf.png)
 
 #### Commander Deanna Troi ####
 
