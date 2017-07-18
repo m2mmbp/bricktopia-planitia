@@ -60,6 +60,36 @@ Lego:
 
 ![Riker](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Riker.lxf.png)
 
+#### Lieutenant Commander Data ####
+
+![Data](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Data.lxf.png)
+
+#### Lieutenant Commander Geordi La Forge ####
+
+![La Forge](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_LaForge.lxf.png)
+
+#### Lieutenant Worf ####
+
+![Worf](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worf.lxf.png)
+
+#### Dr. Beverly Crusher ####
+
+![Crusher](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Crusher.lxf.png)
+
+
+#### Commander Deanna Troi ####
+
+![Troi](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Troi.lxf.png)
+
+
+#### Ensign Wesley Crusher ####
+
+![Wesley](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Wesley.lxf.png)
+
+#### Ensign Ro Laren ####
+
+![Ro](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Ro.lxf.png)
+
 
 ### Links ###
 
