@@ -20,6 +20,10 @@ Lego:
 
 ### Rooms ###
 
+#### Worfs Quarter ####
+
+![Worfs Quarter](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worfs_Quarter02.lxf.png)
+
 ### Interior & Machinery ###
 
 #### Antimatter Containment Pod ####
