@@ -8,15 +8,13 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 ##### Type-6 Shuttle #####
 
+![Image of Type-6 Shuttle](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/Type-6%20Shuttle.jpg)
+
 Reference:
 
 ![Reference Type-6 Shuttle](http://pre02.deviantart.net/cd49/th/pre/f/2015/040/1/3/type_6_shuttlecraft_ortho__new__by_unusualsuspex-d8h7rwi.jpg)
 
 ![Reference Type-6 Shuttle](http://employees.csbsju.edu/rsorensen/modelcitizen/trekships/shuttlecraft/type6_foreq.jpg)
-
-Lego:
-
-![Image of Type-6 Shuttle](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/Type-6%20Shuttle.jpg)
 
 ### Rooms ###
 
@@ -36,17 +34,17 @@ https://www.youtube.com/watch?v=FSb_zge4qL4
 
 #### Antimatter Containment Pod ####
 
+![Image of Antimatter Containment Pod](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Antimatter_Containment_Pod.jpg)
+
 Reference:
 
 ![Reference Antimatter Containment Pod](http://img05.deviantart.net/07c6/i/2014/139/9/e/antimatter_containment_pod_tech_readout_by_unusualsuspex-d7iuhmh.jpg)
 
 ![Reference Antimatter Containment Pod](https://s-media-cache-ak0.pinimg.com/564x/b1/48/43/b148436ebcff747ffefdd2d417c99890.jpg)
 
-Lego:
-
-![Image of Antimatter Containment Pod](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Antimatter_Containment_Pod.jpg)
-
 #### Replicator ####
+
+![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.lxf.png)
 
 Reference:
 
@@ -54,19 +52,13 @@ Reference:
 
 ![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png)
 
-Lego:
-
-![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.lxf.png)
-
-
-
 ### Probes & Torpedoes ###
 
 ### Crew & Uniforms ###
 
 #### Captain Jean-Luc Picard ####
 
-Picard with Kamin's flute.
+Picard with Kamin's flute and cup of tea.
 
 ![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.lxf.png)
 
@@ -111,6 +103,8 @@ Dr. Pulaski and a medical device.
 ![Pulaski](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Pulaski.lxf.png)
 
 #### Commander Deanna Troi ####
+
+Troi and chocolate mousse.
 
 ![Troi](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Troi.lxf.png)
 
