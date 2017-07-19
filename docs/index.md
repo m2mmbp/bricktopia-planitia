@@ -24,6 +24,11 @@ Lego:
 
 ![Worfs Quarter](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worfs_Quarter02.lxf.png)
 
+Reference:
+
+![](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/worfs_quarter_deckplan.png)
+
+
 ### Interior & Machinery ###
 
 #### Antimatter Containment Pod ####
