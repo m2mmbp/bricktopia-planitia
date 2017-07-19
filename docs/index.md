@@ -28,6 +28,9 @@ Reference:
 
 ![](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/worfs_quarter_deckplan.png)
 
+![](http://img14.deviantart.net/785c/i/2015/010/1/c/ncc_1701_d_worf_s_quarters_by_bobye2-d8dctyj.jpg)
+
+https://www.youtube.com/watch?v=FSb_zge4qL4
 
 ### Interior & Machinery ###
 
