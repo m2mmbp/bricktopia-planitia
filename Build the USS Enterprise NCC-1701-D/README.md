@@ -8,6 +8,8 @@ http://www.thetrekcollective.com/2011/11/build-enterprise-issue-by-issue.html
 
 http://www.thetrekcollective.com/2011/11/build-enterprise-part-work-that-never.html
 
+http://www.thetrekcollective.com/2011/11/peak-inside-that-new-part-work-that.html
+
 https://www.flickr.com/photos/12337473@N06/7489284222
 
 http://martin-ritchie-design.com/gallery/64958/star-trek-build-the-u.s.s.-enterprise/
