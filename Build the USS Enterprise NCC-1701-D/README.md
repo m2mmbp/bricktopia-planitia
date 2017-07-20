@@ -13,3 +13,7 @@ http://www.thetrekcollective.com/2011/11/peak-inside-that-new-part-work-that.htm
 https://www.flickr.com/photos/12337473@N06/7489284222
 
 http://martin-ritchie-design.com/gallery/64958/star-trek-build-the-u.s.s.-enterprise/
+
+http://www.ebay.com/itm/Star-Trek-TNG-Enterprise-D-Lifeboat-Collection-ORIGINAL-Sketches-Schematics-/370558221239
+
+http://www.ebay.com/itm/Star-Trek-TNG-Enterprise-D-Lifeboat-1-24-Scale-Foamcore-Mockup-/320790011945
