@@ -17,3 +17,10 @@ http://martin-ritchie-design.com/gallery/64958/star-trek-build-the-u.s.s.-enterp
 http://www.ebay.com/itm/Star-Trek-TNG-Enterprise-D-Lifeboat-Collection-ORIGINAL-Sketches-Schematics-/370558221239
 
 http://www.ebay.com/itm/Star-Trek-TNG-Enterprise-D-Lifeboat-1-24-Scale-Foamcore-Mockup-/320790011945
+
+Japanese:
+
+スタートレックエンタープライズDをつくろ
+
+http://smile-dental-clinic.info/wordpress/?p=1555 (links to here: https://get.google.com/albumarchive/117774436743033974391/album/AF1QipM8lpc15EakPQxho1bFaLkYBfledvqDq5X-NQnm/AF1QipPbxFiL7vp98Gmk4-JlD_UwTkPgpotKxNn-s-MQ)
+
