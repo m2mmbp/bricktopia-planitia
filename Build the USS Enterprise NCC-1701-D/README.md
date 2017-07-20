@@ -24,3 +24,5 @@ Japanese:
 
 http://smile-dental-clinic.info/wordpress/?p=1555 (links to here: https://get.google.com/albumarchive/117774436743033974391/album/AF1QipM8lpc15EakPQxho1bFaLkYBfledvqDq5X-NQnm/AF1QipPbxFiL7vp98Gmk4-JlD_UwTkPgpotKxNn-s-MQ)
 
+http://blog.goo.ne.jp/pomewanraru/e/b316f9d1b2dcd7e22325913aabd5e7bc
+
