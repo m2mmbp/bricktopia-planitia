@@ -2,7 +2,6 @@
 
 #### Unknown ####
 
-![](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/key01.png)
 
 #### Vertical Jeffries tube ####
 
@@ -14,7 +13,7 @@
 
 
 
-First Header | Second Header
+Image | Description
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+![](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/key01.png) | Unknown
 Content in the first column | Content in the second column
