@@ -6,3 +6,5 @@ Image | Description
 ![Vertical Jeffries tube](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/verticle_jeffries_tube.png) | Vertical Jeffries tube
 ![Pressurization Gas Sphere](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/pressurization_gas_spheres.png)| Pressurization Gas Sphere (big)
 ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png)| Autonomous Survival Package
+![Type IV Fluid Storage](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/type_iv_fluid_storage.png)| Type IV Fluid Storage
+
