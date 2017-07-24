@@ -3,8 +3,23 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+    font-family: 'bentonsansbold';
+    src: url('../fonts/bentonsans-bold-webfont.eot');
+    src: url('../fonts/bentonsans-bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bentonsans-bold-webfont.woff') format('woff'), url('../fonts/bentonsans-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bentonsansregular';
+    src: url('../fonts/bentonsans-regular-webfont.eot');
+    src: url('../fonts/bentonsans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bentonsans-regular-webfont.woff') format('woff'), url('../fonts/bentonsans-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 header, body {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+  font-family: 'bentonsansregular', Helvetica, Arial, sans-serif;
 }
 
 header h1 {
@@ -16,7 +31,7 @@ a.button {
 }
 
 #main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+  font-family: 'bentonsansregular', Helvetica, Arial, sans-serif;
 }
 
 #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before, #main-content h5:before, #main-content h6:before {
