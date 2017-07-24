@@ -9,4 +9,4 @@ Image | Description
 ![Type IV Fluid Storage](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/type_iv_fluid_storage.png)| Type IV Fluid Storage
 ![Small Monitoring Console](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/small_monitoring_console.png)| Small Monitoring Console
 ![Multi-operator Console](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/multi-operator_console.png)| Multi-operator Console
-
+![Subspace Radio Assembly](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/subspace_radio_assembly.png)| Subspace Radio Assembly
