@@ -1,4 +1,4 @@
-As found on ebay:
+As found on ebay (links below)
 
 ## Star Trek: The Next Generation ##
 
