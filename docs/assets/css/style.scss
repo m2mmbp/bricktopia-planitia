@@ -14,14 +14,14 @@
 @font-face {
   font-family: "Benton Sans";
   font-weight: 400;
-  src: url(https://uacp2.hana.ondemand.com/viewer/_build_3742394ee5bb50782cfc61f7/css/fonts/sap-benton-light.woff);
+  src: url('../fonts/sap-benton-regular.woff');
 }
 
 header, body {
-  font-family: 'Benton Sans';
+  font-family: "Benton Sans";
   font-style: normal;
   font-weight: 400;
-  src: url(https://uacp2.hana.ondemand.com/viewer/_build_3742394ee5bb50782cfc61f7/css/fonts/sap-benton-light.woff) format('woff');
+  src: url('../fonts/sap-benton-regular.woff') format('woff');
 }
 
 header h1 {
