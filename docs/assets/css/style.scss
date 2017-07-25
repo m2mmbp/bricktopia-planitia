@@ -14,14 +14,14 @@
 @font-face {
   font-family: "Benton Sans";
   font-weight: 400;
-  src: url('../fonts/sap-benton-regular.woff');
+  src: url("../fonts/sap-benton-regular.woff");
 }
 
 header, body {
   font-family: "Benton Sans";
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/sap-benton-regular.woff') format('woff');
+  src: url("../fonts/sap-benton-regular.woff");
 }
 
 header h1 {
