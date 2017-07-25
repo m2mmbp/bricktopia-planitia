@@ -16,6 +16,16 @@ Reference:
 
 ![Reference Type-6 Shuttle](http://employees.csbsju.edu/rsorensen/modelcitizen/trekships/shuttlecraft/type6_foreq.jpg)
 
+##### 4 meter Lifeboat #####
+
+This is an upgraded version of the standard lifeboat.
+
+![Image of Type-6 Shuttle](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Lifeboat01a.lxf.png)
+
+Reference:
+
+![Reference 4m lifeboat](https://68.media.tumblr.com/864865c228d0b03e721a0fdd3ebe4572/tumblr_o6koghwzZv1rzu2xzo1_1280.jpg)
+
 ### Rooms ###
 
 #### Worfs Quarter ####
