@@ -24,6 +24,8 @@ This is an upgraded version of the standard lifeboat.
 
 Reference:
 
+![Reference 4m lifeboat](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/4m_standard_lifeboat_02.png)
+
 ![Reference 4m lifeboat](https://68.media.tumblr.com/864865c228d0b03e721a0fdd3ebe4572/tumblr_o6koghwzZv1rzu2xzo1_1280.jpg)
 
 ### Rooms ###
