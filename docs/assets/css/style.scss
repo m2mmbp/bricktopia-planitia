@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 @font-face {
     font-family: 'bentonsansbold';
     src: url('../fonts/bentonsans-bold-webfont.eot');
@@ -36,5 +38,3 @@ a.button {
 #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before, #main-content h5:before, #main-content h6:before {
   content: "";
 }
-
-@import "{{ site.theme }}";
