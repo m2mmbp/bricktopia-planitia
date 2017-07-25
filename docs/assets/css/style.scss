@@ -12,18 +12,16 @@
 }
 
 @font-face {
-    font-family: 'bentonsansregular';
-    src: url('../fonts/bentonsans-regular-webfont.eot');
-    src: url('../fonts/bentonsans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bentonsans-regular-webfont.woff') format('woff'), url('../fonts/bentonsans-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: "Benton Sans";
+  font-weight: 400;
+  src: url(http://sap.github.io/fonts/bentonsans-regular-webfont.woff);
 }
 
 header, body {
-  font-family: 'bentonsansregular';
+  font-family: 'Benton Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('bentonsansregular'), local('bentonsansregular'), url(http://sap.github.io/fonts/bentonsans-regular-webfont.woff) format('woff');
+  src: url(http://sap.github.io/fonts/bentonsans-regular-webfont.woff) format('woff');
 }
 
 header h1 {
