@@ -21,6 +21,8 @@ Reference:
 
 Reference:
 
+![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Lifeboat_3m_02.lxf.png)
+
 ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png)
 
 ##### 4 Meter Lifeboat #####
