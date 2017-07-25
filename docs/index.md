@@ -98,7 +98,7 @@ Worf holding his bat'leth.
 
 #### Lieutenant Tasha Yar ####
 
-Tasha hand a phaser.
+Tasha and a phaser.
 
 ![Yar](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Yar.lxf.png)
 
