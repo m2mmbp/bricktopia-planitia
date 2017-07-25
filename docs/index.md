@@ -16,6 +16,11 @@ Reference:
 
 ![Reference Type-6 Shuttle](http://employees.csbsju.edu/rsorensen/modelcitizen/trekships/shuttlecraft/type6_foreq.jpg)
 
+
+##### Standard Lifeboat #####
+
+Reference:
+
 ##### 4 Meter Lifeboat #####
 
 This is an upgraded version of the standard lifeboat.
