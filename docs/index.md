@@ -17,9 +17,11 @@ Reference:
 ![Reference Type-6 Shuttle](http://employees.csbsju.edu/rsorensen/modelcitizen/trekships/shuttlecraft/type6_foreq.jpg)
 
 
-##### Standard Lifeboat #####
+##### Standard Lifeboat (Autonomous Survival Package) #####
 
 Reference:
+
+![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png)
 
 ##### 4 Meter Lifeboat #####
 
