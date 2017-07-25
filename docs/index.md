@@ -19,11 +19,13 @@ Reference:
 
 ##### Standard Lifeboat (Autonomous Survival Package) #####
 
-Reference:
-
 ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Lifeboat_3m_02.lxf.png)
 
+Reference:
+
 ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png)
+
+![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EscapePod_Galaxy.gif)
 
 ##### 4 Meter Lifeboat #####
 
