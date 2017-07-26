@@ -20,7 +20,7 @@ Reference:
 
 Reference:
 
-![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png) ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EscapePod_Galaxy.gif){:width="250px"}
+![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png) ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EscapePod_Galaxy.gif){:width="250px"} ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/escapepod_4.jpg){:width="250px"}
 
 ##### 4 Meter Lifeboat #####
 
