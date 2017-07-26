@@ -20,9 +20,7 @@ Reference:
 
 Reference:
 
-![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png)
-
-![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EscapePod_Galaxy.gif)
+![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/autonomous_survival_package.png) ![Autonomous Survival Package](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EscapePod_Galaxy.gif){:width="250px"}
 
 ##### 4 Meter Lifeboat #####
 
@@ -32,9 +30,7 @@ This is an upgraded version of the standard lifeboat.
 
 Reference:
 
-![Reference 4m lifeboat](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/4m_standard_lifeboat_02.png)
-
-![Reference 4m lifeboat](https://68.media.tumblr.com/864865c228d0b03e721a0fdd3ebe4572/tumblr_o6koghwzZv1rzu2xzo1_1280.jpg)
+![Reference 4m lifeboat](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/4m_standard_lifeboat_02.png) ![Reference 4m lifeboat](https://68.media.tumblr.com/864865c228d0b03e721a0fdd3ebe4572/tumblr_o6koghwzZv1rzu2xzo1_1280.jpg){:width="250px"}
 
 ### Rooms ###
 
@@ -44,9 +40,7 @@ Reference:
 
 Reference:
 
-![](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/worfs_quarter_deckplan.png)
-
-![](http://img14.deviantart.net/785c/i/2015/010/1/c/ncc_1701_d_worf_s_quarters_by_bobye2-d8dctyj.jpg)
+![](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/worfs_quarter_deckplan.png) ![](http://img14.deviantart.net/785c/i/2015/010/1/c/ncc_1701_d_worf_s_quarters_by_bobye2-d8dctyj.jpg){:width="250px"}
 
 [YouTube 360](https://www.youtube.com/watch?v=FSb_zge4qL4)
 
@@ -58,9 +52,7 @@ Reference:
 
 Reference:
 
-![Reference Antimatter Containment Pod](http://img05.deviantart.net/07c6/i/2014/139/9/e/antimatter_containment_pod_tech_readout_by_unusualsuspex-d7iuhmh.jpg)
-
-![Reference Antimatter Containment Pod](https://s-media-cache-ak0.pinimg.com/564x/b1/48/43/b148436ebcff747ffefdd2d417c99890.jpg)
+![Reference Antimatter Containment Pod](http://img05.deviantart.net/07c6/i/2014/139/9/e/antimatter_containment_pod_tech_readout_by_unusualsuspex-d7iuhmh.jpg){:width="250px"} ![Reference Antimatter Containment Pod](https://s-media-cache-ak0.pinimg.com/564x/b1/48/43/b148436ebcff747ffefdd2d417c99890.jpg){:width="250px"}
 
 #### Replicator ####
 
@@ -68,9 +60,7 @@ Reference:
 
 Reference:
 
-![Reference Replicator](https://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg)
-
-![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png)
+![Reference Replicator](https://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg){:width="250px"} ![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png){:width="250px"}
 
 ### Probes & Torpedoes ###
 
