@@ -48,8 +48,6 @@ Reference:
 
 #### Antimatter Containment Pod ####
 
-https://github.com/m2mmbp/bricktopia-planitia/blob/master/Models/TNG_Antimatter_Containment_Pod02.lxf
-
 ![Image of Antimatter Containment Pod](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Antimatter_Containment_Pod.jpg)
 
 Reference:
