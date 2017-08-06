@@ -34,6 +34,10 @@ Reference:
 
 ### Rooms ###
 
+#### Holodeck ####
+
+![Holodeck](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Holodeck01.lxf.png)
+
 #### Worfs Quarter ####
 
 ![Worfs Quarter](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worfs_Quarter02.lxf.png)
