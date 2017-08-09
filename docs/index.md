@@ -158,7 +158,8 @@ https://lc-www-live-s.legocdn.com/r/www/r/architecture/-/media/franchises/archit
 
 ### blurender under OSX ###
 
+```markdown
 export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
-
 java -cp "bin/*" bluerender.BlueRender
+```
 
