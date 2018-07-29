@@ -8,8 +8,6 @@ Here you can find information about Brickfleet's newest developments in brickshi
 
 ##### Type-6 Shuttle #####
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-
 [LDD File](https://github.com/m2mmbp/bricktopia-planitia/raw/master/Models/TNG_Shuttle-Type-6-03.lxf)
 
 ![Image of Type-6 Shuttle](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/Type-6%20Shuttle.jpg)
