@@ -40,9 +40,17 @@ Reference:
 
 ![Bridge](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Bridge_orig_core01.png)
 
+#### Computer Data Trunk ####
+
+![Image of Computer Data Trunk](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Computer_Data_Trunk_01.png)
+
+Reference:
+
+![Reference Computer Room](https://vignette.wikia.nocookie.net/memoryalpha/images/2/28/Computer_access_room.jpg/revision/latest?cb=20130625145913&path-prefix=en){:width="250px"}
+
 #### Holodeck ####
 
-![Holodeck](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Holodeck01.lxf.png)
+![Holodeck](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Holodeck01.png)
 
 #### Worfs Quarter ####
 
@@ -63,14 +71,6 @@ Reference:
 Reference:
 
 ![Reference Antimatter Containment Pod](http://img05.deviantart.net/07c6/i/2014/139/9/e/antimatter_containment_pod_tech_readout_by_unusualsuspex-d7iuhmh.jpg){:width="250px"} ![Reference Antimatter Containment Pod](https://s-media-cache-ak0.pinimg.com/564x/b1/48/43/b148436ebcff747ffefdd2d417c99890.jpg){:width="250px"}
-
-#### Computer Data Trunk ####
-
-![Image of Computer Data Trunk](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Computer_Data_Trunk_01.png)
-
-Reference:
-
-![Reference Computer Room](https://vignette.wikia.nocookie.net/memoryalpha/images/2/28/Computer_access_room.jpg/revision/latest?cb=20130625145913&path-prefix=en){:width="250px"}
 
 #### Replicator ####
 
