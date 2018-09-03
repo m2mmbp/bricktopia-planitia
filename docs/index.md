@@ -66,7 +66,7 @@ Reference:
 
 Reference:
 
-![Reference Computer Room](https://slot1-images.wikia.nocookie.net/__cb7220017220012/common/skins/oasis/images/themes/carbon.png){:width="250px"}
+![Reference Computer Room](https://vignette.wikia.nocookie.net/memoryalpha/images/2/28/Computer_access_room.jpg/revision/latest?cb=20130625145913&path-prefix=en){:width="250px"}
 
 #### Replicator ####
 
