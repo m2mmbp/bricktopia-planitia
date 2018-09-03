@@ -76,71 +76,75 @@ Reference:
 
 Picard with Kamin's flute and cup of tea.
 
-![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.lxf.png)
+![Picard](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Picard.png)
 
 #### Commander William T. Riker ####
 
 Riker with his trombone - one of his prized possessions.
 
-![Riker](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Riker.lxf.png)
+![Riker](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Riker.png)
 
 #### Lieutenant Commander Data ####
 
 Data and his feline Spot.
 
-![Data](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Data.lxf.png)
+![Data](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Data.png)
 
 #### Lieutenant Commander Geordi La Forge ####
 
-![La Forge](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_LaForge.lxf.png)
+![La Forge](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_LaForge.png)
 
 #### Lieutenant Worf ####
 
 Worf holding his bat'leth.
 
-![Worf](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worf.lxf.png)
+![Worf](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Worf.png)
 
 #### Lieutenant Tasha Yar ####
 
 Tasha and a phaser.
 
-![Yar](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Yar.lxf.png)
+![Yar](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Yar.png)
 
 #### Dr. Beverly Crusher ####
 
 Dr. Crusher and a medical tricorder.
 
-![Crusher](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Crusher.lxf.png)
+![Crusher](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Crusher.png)
 
 #### Dr. Katherine Pulaski ####
 
 Dr. Pulaski and a medical device.
 
-![Pulaski](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Pulaski.lxf.png)
+![Pulaski](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Pulaski.png)
 
 #### Commander Deanna Troi ####
 
 Troi and chocolate mousse.
 
-![Troi](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Troi.lxf.png)
+![Troi](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Troi.png)
 
 #### Ensign Wesley Crusher ####
 
 Wesley reading a PADD.
 
-![Wesley](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Wesley.lxf.png)
+![Wesley](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Wesley.png)
 
 #### Ensign Ro Laren ####
 
-![Ro](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Ro.lxf.png)
+![Ro](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Ro.png)
 
 #### Guinan ####
 
-![Guinan](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Guinan.lxf.png)
+![Guinan](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Guinan.png)
 
 #### Q ####
 
-![Q](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Q.lxf.png)
+![Q](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Q.png)
+
+#### O'Brien ####
+
+![O'Brien](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_OBrien.png)
 
 ### Links ###
 
