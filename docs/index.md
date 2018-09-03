@@ -36,6 +36,10 @@ Reference:
 
 ### Rooms ###
 
+#### Bridge ####
+
+![Bridge](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Bridge_orig_core01.png)
+
 #### Holodeck ####
 
 ![Holodeck](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Holodeck01.lxf.png)
