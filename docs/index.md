@@ -164,8 +164,36 @@ https://lc-www-live-s.legocdn.com/r/www/r/architecture/-/media/franchises/archit
 
 ### blurender under OSX ###
 
+blurender.sh
+
 ```markdown
 export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
 java -cp "bin/*" bluerender.BlueRender
 ```
 
+### busufl under OSX ###
+
+busufl_works.sh (not busufl.sh)
+
+```markdown
+#!/bin/sh
+cp busufl_works.sh busufl.sh
+export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
+
+java -Xmx2G -server -jar DATA
+
+@if %errorlevel% neq 0 pause
+
+
+rem #DbLifDirectory=/Users/hannes/Library/Application Support/LEGO Company/LEGO Digital Designer/db.lif
+rem #LastDirectory=/Users/hannes/Documents/Lego Creations/Models
+rem #BsfmAutoSave=true
+rem #HeapSize=2G
+rem #SmallMeshTriangles=false
+rem #UseHqBricks=true
+rem #FlushTextureCache=false
+rem #BsfmAutoClosePrevWin=true
+rem #MainWindowPosition=966,180
+rem #RenderWindowPosition=0,0
+rem #FirstRun=false
+```
