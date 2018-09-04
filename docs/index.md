@@ -104,6 +104,8 @@ Data and his feline Spot.
 
 #### Lieutenant Commander Geordi La Forge ####
 
+La Forge with an isolinear chip and a tool.
+
 ![La Forge](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_LaForge.png)
 
 #### Lieutenant Worf ####
@@ -148,6 +150,8 @@ Wesley reading a PADD.
 
 #### Guinan ####
 
+Guinan with a drink.
+
 ![Guinan](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Guinan.png)
 
 #### Q ####
@@ -155,6 +159,8 @@ Wesley reading a PADD.
 ![Q](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Q.png)
 
 #### O'Brien ####
+
+O'Brien with an isolinear chip and a phaser.
 
 ![O'Brien](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_OBrien.png)
 
