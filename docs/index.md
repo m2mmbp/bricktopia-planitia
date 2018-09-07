@@ -203,8 +203,8 @@ java -Xmx2G -server -jar DATA
 @if %errorlevel% neq 0 pause
 
 
-rem #DbLifDirectory=/Users/hannes/Library/Application Support/LEGO Company/LEGO Digital Designer/db.lif
-rem #LastDirectory=/Users/hannes/Documents/Lego Creations/Models
+rem #DbLifDirectory=/Users/theuser/Library/Application Support/LEGO Company/LEGO Digital Designer/db.lif
+rem #LastDirectory=/Users/theuser/Documents/Lego Creations/Models
 rem #BsfmAutoSave=true
 rem #HeapSize=2G
 rem #SmallMeshTriangles=false
