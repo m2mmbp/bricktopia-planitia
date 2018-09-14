@@ -78,7 +78,7 @@ Reference:
 
 #### Replicator ####
 
-![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.lxf.png)
+![Image of Replicator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Replicator.png)
 
 Reference:
 
