@@ -82,7 +82,7 @@ Reference:
 
 Reference:
 
-![Reference Replicator](https://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg){:width="250px"} ![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png){:width="250px"}
+![Reference Replicator](http://jeremyvarner.com/blog/wp-content/uploads/2017/05/replicator-1038x576.jpg){:width="250px"} ![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png){:width="250px"}
 
 ### Probes & Torpedoes ###
 
