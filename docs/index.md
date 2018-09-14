@@ -84,6 +84,14 @@ Reference:
 
 ![Reference Replicator](http://jeremyvarner.com/blog/wp-content/uploads/2017/05/replicator-1038x576.jpg){:width="250px"} ![Reference Replicator](http://images.mentalfloss.com/sites/default/files/Screen-Shot-2012-12-05-at-2.48.51-PM-565x305_4.png){:width="250px"}
 
+#### Isolinear Chip Trunk ####
+
+![Image of Isolinear Chip Trunk](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/Models/TNG_Isolinear_Chips.png)
+
+Reference:
+
+![Reference Isolinear Chips](http://tng.trekcore.com/hd/albums/1x03/nakednow_hd_454.jpg){:width="250px"} ![Reference Isolinear Chips](http://tng.trekcore.com/hd/albums/1x03/nakednow_hd_267.jpg){:width="250px"}
+
 ### Probes & Torpedoes ###
 
 ### Crew & Uniforms ###
