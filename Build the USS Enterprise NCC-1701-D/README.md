@@ -2,6 +2,8 @@ From the cancelled Japanese part-work "Build the USS Enterprise NCC-1701-D"
 
 Sources:
 
+https://www.thetrekcollective.com/2020/04/tng-tech-from-cancelled-build.html
+
 http://www.thetrekcollective.com/2012/08/first-details-for-on-board-uss.html
 
 http://www.thetrekcollective.com/2011/11/build-enterprise-issue-by-issue.html
