@@ -13,3 +13,6 @@ Image | Description
 ![Subspace Radio Assembly](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/subspace_radio_assembly.png)| Subspace Radio Assembly
 ![Emergency Beacon](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/emergency_beacon.png)| Emergency Beacon
 ![Antimatter Generator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Antimatter_Generator.png)| Antimatter Generator
+![EPS Step-down Node](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EPS_Step-down_Node.png)| EPS Step-down Node
+
+EPS_Step-down_Node.png
