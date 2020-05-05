@@ -11,3 +11,5 @@ Image | Description
 ![Small Monitoring Console](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/small_monitoring_console.png)| Small Monitoring Console
 ![Multi-operator Console](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/multi-operator_console.png)| Multi-operator Console
 ![Subspace Radio Assembly](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/subspace_radio_assembly.png)| Subspace Radio Assembly
+![Emergency Beacon](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/emergency_beacon.png)| Emergency Beacon
+
