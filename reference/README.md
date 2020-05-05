@@ -12,4 +12,4 @@ Image | Description
 ![Multi-operator Console](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/multi-operator_console.png)| Multi-operator Console
 ![Subspace Radio Assembly](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/subspace_radio_assembly.png)| Subspace Radio Assembly
 ![Emergency Beacon](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/emergency_beacon.png)| Emergency Beacon
-
+![Antimatter Generator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Antimatter_Generator.png)| Antimatter Generator
