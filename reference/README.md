@@ -15,4 +15,4 @@ Image | Description
 ![Antimatter Generator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Antimatter_Generator.png)| Antimatter Generator
 ![EPS Step-down Node](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EPS_Step-down_Node.png)| EPS Step-down Node
 ![Reaction Control Thrusters](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Reaction_Control_Thrusters.png)| Reaction Control Thrusters
-
+![Internal Sensor and Data Preprocessor](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Internal_Sensor_and_Data_Preprocessor.png)| Internal Sensor and Data Preprocessor
