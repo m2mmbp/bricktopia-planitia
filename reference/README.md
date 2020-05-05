@@ -14,5 +14,5 @@ Image | Description
 ![Emergency Beacon](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/emergency_beacon.png)| Emergency Beacon
 ![Antimatter Generator](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Antimatter_Generator.png)| Antimatter Generator
 ![EPS Step-down Node](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/EPS_Step-down_Node.png)| EPS Step-down Node
+![Reaction Control Thrusters](https://raw.githubusercontent.com/m2mmbp/bricktopia-planitia/master/reference/Reaction_Control_Thrusters.png)| Reaction Control Thrusters
 
-EPS_Step-down_Node.png
