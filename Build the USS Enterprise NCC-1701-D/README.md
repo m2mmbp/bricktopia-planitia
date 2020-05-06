@@ -20,6 +20,10 @@ http://www.ebay.com/itm/Star-Trek-TNG-Enterprise-D-Lifeboat-Collection-ORIGINAL-
 
 http://www.ebay.com/itm/Star-Trek-TNG-Enterprise-D-Lifeboat-1-24-Scale-Foamcore-Mockup-/320790011945
 
+https://www.worthpoint.com/worthopedia/star-trek-tng-enterprise-1701-1-900-1858347585
+
+https://memory-alpha.fandom.com/wiki/The_Official_Star_Trek_The_Next_Generation:_Build_the_USS_Enterprise_NCC-1701-D
+
 Japanese:
 
 スタートレックエンタープライズDをつくろ
